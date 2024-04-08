@@ -1,7 +1,7 @@
 # Hi there, I'm Aniket Mishra! 👋
 ![Profile views](https://komarev.com/ghpvc/?username=the-avyakta)
 
-I'm a passionate Full Stack Developer and Data Scientist based in [Your Location]. Welcome to my GitHub profile!
+I'm a passionate Full Stack Developer and Data Scientist.
 
 ## 🔭 I’m currently working on...
 - Building interactive web applications with cutting-edge technologies.
@@ -31,8 +31,8 @@ I'm a passionate Full Stack Developer and Data Scientist based in [Your Location
 <!-- - Portfolio: [aniketmishra.com](https://www.aniketmishra.com) -->
 
 ## ⚡ Fun Fact
-I love to travel and explore new destinations. I've visited [Number] countries and counting!
+I love to travel and explore new destinations.
 
 ## 📈 GitHub Stats
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the_avyakta&show_icons=true&theme=radical)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-avyakta&show_icons=true&theme=radical)
 
