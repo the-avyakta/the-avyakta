@@ -25,14 +25,18 @@ I'm a passionate Full Stack Developer and Data Scientist.
 - [Project 2](Link): Brief description.
 - [Project 3](Link): Brief description. -->
 
+
+
 ## 📫 Let's Connect
 - LinkedIn: [Aniket Mishra](https://www.linkedin.com/in/aniketmishraceo)
 - Twitter: [@aniket_mishra](https://twitter.com/the_avyakta)
 <!-- - Portfolio: [aniketmishra.com](https://www.aniketmishra.com) -->
 
-## ⚡ Fun Fact
-I love to travel and explore new destinations.
 
 ## 📈 GitHub Stats
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-avyakta&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+I love to travel and explore new destinations.
+
 
