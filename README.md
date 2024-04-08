@@ -1,5 +1,5 @@
 # Hi there, I'm Aniket Mishra! 👋
-![Profile views](https://komarev.com/ghpvc/?username=the_avyakta)
+![Profile views](https://komarev.com/ghpvc/?username=the-avyakta)
 
 I'm a passionate Full Stack Developer and Data Scientist based in [Your Location]. Welcome to my GitHub profile!
 
