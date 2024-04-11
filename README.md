@@ -36,6 +36,8 @@ I'm a passionate Full Stack Developer and Data Scientist.
 ## 📈 GitHub Stats
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-avyakta&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-avyakta&layout=compact)
+
 ## ⚡ Fun Fact
 I love to travel and explore new destinations.
 
