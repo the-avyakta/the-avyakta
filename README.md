@@ -9,14 +9,13 @@ I'm a passionate Full Stack Developer and Data Scientist.
 - Contributing to open-source projects to give back to the community.
 
 ## 🌱 I’m currently learning...
-- Advanced data visualization techniques with Plotly and D3.js.
 - Deployment of machine learning models using Docker and Kubernetes.
-- Improving my skills in natural language processing (NLP) with spaCy and Transformers.
+- Improving my skills in natural language processing (NLP).
 
 ## 💼 Skills
 - **Programming Languages:** Python, JavaScript, PHP, HTML, CSS
 - **Frameworks/Libraries:** React, Flask, Django, Bootstrap, Tailwind CSS
-- **Data Analysis/ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
+- **Data Analysis/ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, OpenCV
 - **Databases:** SQL, MongoDB
 - **Other Tools:** Git, Docker, Kubernetes, Jupyter Notebook
 
